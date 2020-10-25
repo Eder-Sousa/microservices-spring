@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.edersousa.hrpayroll.etities.Payment;
+import com.edersousa.hrpayroll.entities.Payment;
 import com.edersousa.hrpayroll.services.PaymentService;
 
 @RestController
