@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.edersousa.hrworker.entity.Worker;
+import com.edersousa.hrworker.entities.Worker;
 import com.edersousa.hrworker.repositories.WorkerRepository;
 
 @RestController
