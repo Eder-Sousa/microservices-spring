@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.edersousa</groupId>
-	<artifactId>hr-eureca-server</artifactId>
+	<artifactId>hr-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-eureca-server</name>
+	<name>hr-eureka-server</name>
 	<description>Eureca Server</description>
 
 	<properties>
